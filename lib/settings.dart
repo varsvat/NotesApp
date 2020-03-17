@@ -109,7 +109,7 @@ class _SettingsPageState extends State<SettingsPage> {
                       child: Padding(
                     padding: const EdgeInsets.only(top: 8.0, bottom: 4.0),
                     child: Text(
-                      'Roshan',
+                      'Varun',
                       style: TextStyle(fontFamily: 'ZillaSlab', fontSize: 24),
                     ),
                   )),
@@ -211,6 +211,6 @@ class _SettingsPageState extends State<SettingsPage> {
   }
 
   void openGitHub() {
-    launch('https://www.github.com/roshanrahman');
+    launch('https://github.com/varsvat');
   }
 }
